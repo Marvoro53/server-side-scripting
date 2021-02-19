@@ -2,6 +2,10 @@
 
 *Developer: Marvin Lara
 
-Clone
+## DIrections
 
-<a hrfe="https://github.com/Marvoro53/server-side-scripting.git">Server side scripting</a>
+**To install** |
+---------------|
+git clone https://github.com/Marvoro53/server-side-scripting/.git
+ 
+ [See here in Github](https://marvoro53.github.io/Final.Project/)

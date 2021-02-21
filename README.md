@@ -6,9 +6,19 @@
 
 ![](Images/first.png)
 
--Second Excercise
+-Second Exercise
 
 ![](Images/second.png)
+
+-Third Exercise
+
+![](Images/third.png)
+
+-Fourth Exercise
+
+![](Images/fourth.png)
+
+
 
 ## DIrections
 

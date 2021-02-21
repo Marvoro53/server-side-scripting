@@ -2,8 +2,13 @@
 
 *Developer: Marvin Lara
 ## Images
+-First Exercise
 
+![](Images/first.png)
 
+-Second Excercise
+
+![](Images/second.png)
 
 ## DIrections
 

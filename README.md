@@ -6,11 +6,11 @@
 
 ![](Images/first.png)
 
--Second Excercise
+-Second Exercise
 
 ![](Images/second.png)
 
--Third Image
+-Third Exercise
 
 ![](Images/third.png)
 

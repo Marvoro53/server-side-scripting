@@ -8,7 +8,7 @@
 
 -Second Excercise
 
-![](Images/secon.png)
+![](Images/second.png)
 
 ## DIrections
 

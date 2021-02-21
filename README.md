@@ -1,6 +1,9 @@
 # server-side-scripting
 
 *Developer: Marvin Lara
+## Images
+
+
 
 ## DIrections
 

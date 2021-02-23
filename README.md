@@ -24,7 +24,7 @@ Contact: <a hrfe="marvinlara321@gmail.com">MarvinLara321@gmail.com</a>
 
 -Fourth exercise
 
-![]()
+![](Images/04.png)
 
 -Fifth exercise
 
@@ -36,11 +36,11 @@ Contact: <a hrfe="marvinlara321@gmail.com">MarvinLara321@gmail.com</a>
 
 -Seventh exercise
 
-![]()
+![](Images/7th.png)
 
 -Eight exercise
 
-![]()
+![](Images/8th.png)
 
 -Nineth exercise
 

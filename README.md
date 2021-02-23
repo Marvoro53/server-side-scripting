@@ -22,7 +22,29 @@ Contact: <a hrfe="marvinlara321@gmail.com">MarvinLara321@gmail.com</a>
 
 ![](Images/fourth.png)
 
+-Fourth exercise
 
+![]()
+
+-Fifth exercise
+
+![](Images/fifth.png)
+
+-Sixth exercise
+
+![]()
+
+-Seventh exercise
+
+![]()
+
+-Eight exercise
+
+![]()
+
+-Nineth exercise
+
+![]()
 
 ## DIrections
 

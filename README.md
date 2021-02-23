@@ -1,6 +1,10 @@
 # server-side-scripting
+About:
 
-*Developer: Marvin Lara
+Developer: <b>Marvin Lara<b>
+ 
+Contact: <a hrfe="marvinlara321@gmail.com">MarvinLara321@gmail.com</a>
+ 
 ## Images
 -First Exercise
 
@@ -14,7 +18,7 @@
 
 ![](Images/third.png)
 
--Fourth Exercise
+-Third b Exercise
 
 ![](Images/fourth.png)
 
